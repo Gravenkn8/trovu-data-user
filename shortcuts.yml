@@ -1,11 +1,33 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
+#examplekeyword 0: http://www.example.com/
+#examplekeyword 1: http://www.example.com/?q=<query>
+#examplekeyword 2:
+#  url: http://www.example.com/?q=<query>&p=<puery>
+#  title: Custom shortcut
+#  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
+#  tags:
+#  - example
+
+leo 1:
+  url: http://dict.leo.org/ende?search=<word>
+  title: Leo
   tags:
-  - example
+  - dictionary
+mkm 1:
+  url: https://www.magiccardmarket.eu/?mainPage=showSearchResult&searchFor=<argument_name>
+  title: Magickartenmarkt
+  tags:
+  - magic
+  - gathering
+gw2 1:
+  url: http://wiki.guildwars2.com/index.php?title=Special%3ASearch&search=<query>&go=Go
+  title: GuildWars2 Wiki
+gw2 0:
+  url: http://wiki.guildwars2.com/wiki/Main_Page
+  title: GuildWars2 Wiki
+pre 1:
+  url: https://engine.presearch.org/search?q=<query>
+  title: presearch.org
+
