@@ -5,6 +5,6 @@ namespaces:
 - en
 - .de
 - github: .
-defaultKeyword: pre
+defaultKeyword: g
 language: en
 country: de
