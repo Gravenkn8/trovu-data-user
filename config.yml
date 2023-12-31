@@ -3,9 +3,8 @@
 namespaces:
 - o
 - en
-- .us
+- .de
 - github: .
-  name: my
-defaultKeyword: pre 
-language: de
+defaultKeyword: pre
+language: en
 country: de
