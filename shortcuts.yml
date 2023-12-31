@@ -15,12 +15,6 @@ leo 1:
   title: Leo
   tags:
   - dictionary
-mkm 1:
-  url: https://www.magiccardmarket.eu/?mainPage=showSearchResult&searchFor=<argument_name>
-  title: Magickartenmarkt
-  tags:
-  - magic
-  - gathering
 gw2 1:
   url: http://wiki.guildwars2.com/index.php?title=Special%3ASearch&search=<query>&go=Go
   title: GuildWars2 Wiki
