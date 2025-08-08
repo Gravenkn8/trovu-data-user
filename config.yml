@@ -5,6 +5,6 @@ namespaces:
 - en
 - .de
 - github: .
-defaultKeyword: pre
+defaultKeyword: ppx
 language: en
 country: de
