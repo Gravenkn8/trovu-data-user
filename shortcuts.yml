@@ -24,4 +24,6 @@ gw2 0:
 pre 1:
   url: https://engine.presearch.org/search?q=<query>
   title: presearch.org
+ppx 1:
+  url: https://perplexity.ai/search/?q=<query>
 
