@@ -26,4 +26,5 @@ pre 1:
   title: presearch.org
 ppx 1:
   url: https://perplexity.ai/search/?q=<query>
+  title: perplexity.ai
 
